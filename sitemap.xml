@@ -6,26 +6,34 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
                  <loc>index.html</loc>
-                 <lastmod>2026-08-03T17:56:19+00:00</lastmod>
+                 <lastmod>2026-08-16T16:47:43+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>evaluating-iv-fluid-types-for-diarrhea-rehydration-in-bangkok.html</loc>
+                 <lastmod>2026-08-16T16:47:43+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>steps-to-administer-iv-therapy-for-diarrhea-in-bangkok-safely.html</loc>
+                 <lastmod>2026-08-16T16:47:43+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>privacy-policy.html</loc>
-                 <lastmod>2026-08-03T17:56:19+00:00</lastmod>
+                 <lastmod>2026-08-16T16:47:43+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>feed.xml</loc>
-                 <lastmod>2026-08-03T17:56:19+00:00</lastmod>
+                 <lastmod>2026-08-16T16:47:43+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.xml</loc>
-                 <lastmod>2026-08-03T17:56:19+00:00</lastmod>
+                 <lastmod>2026-08-16T16:47:43+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2026-08-03T17:56:19+00:00</lastmod>
+                 <lastmod>2026-08-16T16:47:43+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>about-us.html</loc>
-                 <lastmod>2026-08-03T17:56:19+00:00</lastmod>
+                 <lastmod>2026-08-16T16:47:43+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
